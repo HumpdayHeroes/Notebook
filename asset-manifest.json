@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Notebook/static/css/main.82650c8b.chunk.css",
+    "main.js": "/Notebook/static/js/main.872328a6.chunk.js",
+    "main.js.map": "/Notebook/static/js/main.872328a6.chunk.js.map",
+    "runtime-main.js": "/Notebook/static/js/runtime-main.cb626e7a.js",
+    "runtime-main.js.map": "/Notebook/static/js/runtime-main.cb626e7a.js.map",
+    "static/css/2.9cb274e1.chunk.css": "/Notebook/static/css/2.9cb274e1.chunk.css",
+    "static/js/2.aafe66b6.chunk.js": "/Notebook/static/js/2.aafe66b6.chunk.js",
+    "static/js/2.aafe66b6.chunk.js.map": "/Notebook/static/js/2.aafe66b6.chunk.js.map",
+    "static/js/3.89cf8bd3.chunk.js": "/Notebook/static/js/3.89cf8bd3.chunk.js",
+    "static/js/3.89cf8bd3.chunk.js.map": "/Notebook/static/js/3.89cf8bd3.chunk.js.map",
+    "index.html": "/Notebook/index.html",
+    "static/css/2.9cb274e1.chunk.css.map": "/Notebook/static/css/2.9cb274e1.chunk.css.map",
+    "static/css/main.82650c8b.chunk.css.map": "/Notebook/static/css/main.82650c8b.chunk.css.map",
+    "static/js/2.aafe66b6.chunk.js.LICENSE.txt": "/Notebook/static/js/2.aafe66b6.chunk.js.LICENSE.txt",
+    "static/media/logo-text.4db4c027.svg": "/Notebook/static/media/logo-text.4db4c027.svg",
+    "static/media/primeicons.css": "/Notebook/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb626e7a.js",
+    "static/css/2.9cb274e1.chunk.css",
+    "static/js/2.aafe66b6.chunk.js",
+    "static/css/main.82650c8b.chunk.css",
+    "static/js/main.872328a6.chunk.js"
+  ]
+}
