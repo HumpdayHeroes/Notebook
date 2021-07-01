@@ -1,0 +1,92 @@
+[
+    {
+        "label": "Raiding/Dungeons",
+        "icon":"pi pi-fw pi-file",
+        "items":[
+            {
+                "label": "Guides",
+                "items": [
+                    {
+                        "label": "Mythic Trap",
+                        "url": "https://mythictrap.com/"
+                    }
+                ]
+            },
+            {
+                "label": "Simulation Tools",
+                "items": [
+                    {
+                        "label": "Bloodmallet",
+                        "url": "https://bloodmallet.com/"
+                    },
+                    {
+                        "label": "Hero Damage",
+                        "url": "https://www.herodamage.com/"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "label": "PvP",
+        "icon": "pi pi-fw pi-file",
+        "items": [
+            {
+                "label": "The Loot District",
+                "url": "https://thelootdistrict.com/pvphub/"
+            },
+           {
+            "label": "Areana",
+            "iconitems": []
+           },
+            {
+               "label": "Battlegrounds/RBGs",
+               "items": [
+                {
+                    "label": "RBG Guide",
+                    "url": "https://docs.google.com/document/d/1wqyh4Y2bSD5jcXaJ6l9MEMie6G-CXDxsM4oLgXrqbSA/edit",
+                    "target": "_blank"
+                },
+                { 
+                    "label": "RBG Target Calling",
+                    "url": "https://www.reddit.com/r/worldofpvp/comments/m8esrs/rbg_target_calling/?utm_medium=android_app&utm_source=share",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Epic Battlegrounds Guide",
+                    "url": "https://www.reddit.com/r/wow/comments/mzrdui/epic_battlegrounds_the_current_meta/?utm_medium=android_app&utm_source=share",
+                    "target": "_blank"
+                }
+               ]
+           }
+        ]
+    },
+    {
+        "label": "Class Guides",
+        "items": [
+            {
+                "label": "Target Caps",
+                "url": "https://www.wowhead.com/guides/shadowlands-target-capped-abilities-uncapped-capped-spells"
+            },
+            {
+                "label": "Healing",
+                "items": [
+                    {
+                        "label": "Questionably Epic",
+                        "url": "https://questionablyepic.com/"
+                    }   
+                ]
+            },
+            {
+                "label": "Monk",
+                "items": [
+                    {
+                        "label": "Peak of Serenity",
+                        "url": "https://www.peakofserenity.com/"
+                    }
+                ]
+            }
+        ]
+    }
+]
